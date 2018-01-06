@@ -3,3 +3,5 @@ archive/*
 *.orig
 *.bak
 .DS_Store
+*.max
+model/877953.max
